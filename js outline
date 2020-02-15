@@ -1,0 +1,56 @@
+
+Basics
+- escaping literal quotes 
+- new line, tab, carriage return 
+    \n \t \r
+- finding length of string
+- manipulating arrays
+    - push()
+    - pop()
+    - shift()
+    - unshift()
+- functions
+    - reusable javascript
+- arguments 
+    - values passed to functions  
+- boolean values
+- conditional logic
+    - if statement
+- comparison
+    =   !=  <   >   $$  || 
+- switch statements
+    - selecting from many options
+    - default option
+- return statement
+    - early returns
+- Objects
+    - bracket notation
+    - dot notation
+- Iterations
+    - for loops
+    - while loops 
+    - do while loops
+- replace loops using Recursion
+    - fxn can be written using itself 
+    - base case
+- generating Random numbers 
+- parseInt()
+- conditional ternary operator 
+
+ES6
+- var and let
+    - just don't use var
+        - var: 
+    - let: block scope
+    - const: read-only 
+- destructuring assignment 
+- default parameter
+- rest parameter  ...
+- spread operator ...
+- object assign
+    - for merging Objects
+    - non-destructively assign new data 
+- arrow functions 
+
+
+
